@@ -1,7 +1,12 @@
-
+import Navbar from "./components/Navbar"
+import Footer from "./components/footer"
 const App = () => {
   return (
-    <div><h2 className='bg-red-500' >Hello!</h2></div>
+    <div> 
+        <Navbar />
+        <main>main goes here</main>
+        <Footer />
+    </div>
   )
 }
 
