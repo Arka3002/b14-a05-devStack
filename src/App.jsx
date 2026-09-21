@@ -1,10 +1,11 @@
 import Navbar from "./components/Navbar"
-import Footer from "./components/footer"
+import Footer from "./components/Footer" // Fix: change 'footer' to 'Footer'
+
 const App = () => {
   return (
-    <div> 
+    <div className="min-h-screen flex flex-col justify-between"> 
         <Navbar />
-        <main>main goes here</main>
+        <main className="flex-grow">main goes here</main>
         <Footer />
     </div>
   )
