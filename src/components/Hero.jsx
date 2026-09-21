@@ -5,7 +5,7 @@ const Hero = () => {
     <section className="w-full bg-white py-16 md:py-24">
       <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
         
-        {/* Left Column: Text Content */}
+        
         <div className="space-y-6">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold text-slate-900 leading-[1.15] tracking-tight">
             Build Your Ideal <br />
@@ -18,7 +18,7 @@ const Hero = () => {
             Explore frontend, backend, database, and tooling options, compare them side by side, and put together the stack that fits your next project.
           </p>
 
-          {/* Action Buttons */}
+          
           <div className="flex flex-wrap items-center gap-4 pt-2">
             <button className="px-6 py-3 rounded-lg text-white font-medium text-sm bg-linear-to-r from-orange-500 to-pink-500 hover:opacity-95 transition-opacity shadow-sm cursor-pointer">
               Explore Technologies
