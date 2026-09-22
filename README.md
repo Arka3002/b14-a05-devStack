@@ -6,7 +6,8 @@ Dev Stack Builder is a simple web app that helps developers explore different te
 
 ## 📸 Website Preview
 
-![Dev Stack Builder Preview](./public/preview.png)
+<img width="1900" height="938" alt="Preview" src="https://github.com/user-attachments/assets/a2e02481-a38c-4686-83fb-93b338bb8f1c" />
+
 
 ---
 
